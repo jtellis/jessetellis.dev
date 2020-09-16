@@ -1,6 +1,6 @@
 // Colors
 //
-$theme: #326273;
+$theme: #018574;
 $text: #e8eef2;
 $light-grey: #326273;
 $dark-grey: #3B3E48;
@@ -30,4 +30,8 @@ $code-fonts: Consolas, "Andale Mono WT", "Andale Mono", Menlo, Monaco, "Lucida C
       box-shadow: inset 0 -1em 0 $theme;
     }
   }
+}
+
+#about {
+  font-size: 0.65em;
 }
